@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**`Data Enthusiast (Data Scientist/Machine Learning/Front End Developer/UIUX Designer/)`**
+**`Data Enthusiast (Data Scientist/Machine Learning/Front End Developer)`**
 
 I'm a data scientist and frontend developer. With a holistic approach, I thrive on crafting projects from inception to implementation, merging creativity with problem-solving through code. From conceptualization to execution, I enjoy bringing ideas to life and addressing real-world challenges across various domains, be it in data science, and frontend development.
 
