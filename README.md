@@ -136,7 +136,6 @@ From building scalable fraud detection systems to NLP-powered insight engines, I
 ### ⚙️ Fun Add-Ons (Optional)
 You can uncomment these later for extra animation flair:
 
-```markdown
 <!-- GitHub Contribution Snake -->
 ![GitHub Snake Light](https://github.com/mjoshua97241/mjoshua97241/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://github.com/mjoshua97241/mjoshua97241/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
