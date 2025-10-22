@@ -23,10 +23,10 @@ From building scalable fraud detection systems to NLP-powered insight engines, I
 ### 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pyTorch,tensorflow,sklearn,sql,pandas,numpy,react,tailwind,git,vscode,figma,powerbi&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,sql,pandas,numpy,react,tailwind,git,vscode,figma,powerbi&perline=7" />
 </p>
 
-**Core Skills:**
+**Core Skills:**  
 - **ML & AI:** XGBoost, TensorFlow, PyTorch, Deep Learning, NLP, LLM Concepts  
 - **Data:** Pandas, NumPy, SQL, Power BI, Seaborn, Matplotlib  
 - **Web:** React, Tailwind CSS, Flask, Streamlit, Cytoscape.js  
@@ -53,6 +53,37 @@ From building scalable fraud detection systems to NLP-powered insight engines, I
 
 ---
 
+## 🖼️ Project Gallery
+
+<p align="center">
+  <a href="https://github.com/mjoshua97241/bank-fraud-detection-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mjoshua97241&repo=bank-fraud-detection-project&theme=radical" />
+  </a>
+  <a href="https://github.com/mjoshua97241/nlp-ai-perception-ph">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mjoshua97241&repo=nlp-ai-perception-ph&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mjoshua97241/audiobook-customer-repurchase-prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mjoshua97241&repo=audiobook-customer-repurchase-prediction&theme=radical" />
+  </a>
+  <a href="https://github.com/mjoshua97241/mnist-handwritten-digit-classification">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mjoshua97241&repo=mnist-handwritten-digit-classification&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://aegis-fraud-analytics-showcase.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Aegis_Fraud_Analytics-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mljosh/">
+    <img src="https://img.shields.io/badge/View_more_projects_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ### 📈 GitHub Analytics
 
 <p align="center">
@@ -76,14 +107,14 @@ From building scalable fraud detection systems to NLP-powered insight engines, I
 
 ### 🏗️ Experience Snapshot
 
-**AR Data Technologies** — Lead Data Scientist *(2025-Present)*  
+**AR Data Technologies** — Lead Data Scientist *(2025–Present)*  
 → Designed data pipeline for IoT & geospatial ML systems.  
 → Architected early-stage MLOps dashboard and rule-based prototype.
 
 **Eskwelabs** — Data Science Fellow *(2025)*  
-→ Built Gradient Boosting model (92.56% accuracy) & skill network analysis using centrality metrics.  
+→ Built Gradient Boosting model (92.56% accuracy) & skill-network analysis using centrality metrics.  
 
-**VAA Philippines** — Amazon PPC Specialist *(2023-2025)*  
+**VAA Philippines** — Amazon PPC Specialist *(2023–2025)*  
 → Automated 40+ performance reports, boosting ad ROI by 20–30%.
 
 ---
