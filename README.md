@@ -130,12 +130,3 @@ From building scalable fraud detection systems to NLP-powered insight engines, I
   <a href="https://github.com/mjoshua97241"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:mjoshua97241@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
----
-
-### ⚙️ Fun Add-Ons (Optional)
-You can uncomment these later for extra animation flair:
-
-```markdown
-[GitHub Snake Light](https://raw.githubusercontent.com/mjoshua97241/mjoshua97241/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-[GitHub Snake Dark](https://raw.githubusercontent.com/mjoshua97241/mjoshua97241/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
