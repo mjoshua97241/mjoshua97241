@@ -16,7 +16,7 @@
 I’m a **Data Scientist and Machine Learning Engineer** passionate about merging **AI, analytics, and user interfaces** to create impactful end-to-end products.  
 From building scalable fraud detection systems to NLP-powered insight engines, I love solving problems where **data meets design**.
 
-- 🔭 **Current:** Lead Data Scientist @ AR Data Technologies — building IoT & geospatial ML pipelines.  
+- 🔭 **Current:** Lead Data Scientist @ AR Data Technologies — building IoT & BIM ML pipelines.  
 - 🧠 **Previously:** Eskwelabs Fellow — socio-economic prediction models (92.56% accuracy).  
 - 🌱 **Learning:** Generative AI & agentic systems for automated insight extraction.  
 - 💬 **Ask me about:** ML pipelines, NLP, Streamlit dashboards, or React integrations.  
