@@ -19,7 +19,7 @@ From building scalable fraud detection systems to NLP-powered insight engines, I
 - 🔭 **Current:** Lead Data Scientist @ AR Data Technologies — building IoT & BIM ML pipelines.  
 - 🧠 **Previously:** Eskwelabs Fellow — socio-economic prediction models (92.56% accuracy).  
 - 🌱 **Learning:** Generative AI & agentic systems for automated insight extraction.  
-- 💬 **Ask me about:** ML pipelines, NLP, Streamlit dashboards, or React integrations.  
+- 💬 **Ask me about:** ML pipelines, NLP, Marimo dashboards.  
 - ⚡ **Fun fact:** I used to design buildings as an architect — now I design data systems!
 
 ---
