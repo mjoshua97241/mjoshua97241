@@ -27,8 +27,17 @@ From building scalable fraud detection systems to NLP-powered insight engines, I
 ### 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,sql,pandas,numpy,react,tailwind,git,vscode,figma,powerbi,tableau,jupyter&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,react,tailwind,git,vscode,figma,jupyter,postgres,sqlite&perline=7" />
 </p>
+
+<!-- Add badges for tools without icons on skillicons -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge" />
+</p>
+
 
 **Core Skills:**  
 - **ML & AI:** XGBoost, TensorFlow, PyTorch, Deep Learning, NLP, LLM Concepts  
