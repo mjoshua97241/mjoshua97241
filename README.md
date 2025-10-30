@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/mjoshua97241">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+I%27m+M.+Joshua+Vargas+%F0%9F%91%8B;Data+Scientist+%7C+Machine+Learning+%7C+NLP"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+I%27m+M.+Joshua+Vargas+%F0%9F%91%8B;Data+Scientist+%7C+Machine+Learning+%7C+AI+Engineer+%7C+NLP"
       alt="Typing SVG"
     />
   </a>
